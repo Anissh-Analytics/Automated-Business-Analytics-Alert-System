@@ -76,5 +76,5 @@ The system:
 
 ---
 
-## 🔄 Workflow Architecture
+## 🔄 Workflow Architecture ( N8N Automation)
 ![Workflow Screenshot](./Workflow%20Snapshot.png)
