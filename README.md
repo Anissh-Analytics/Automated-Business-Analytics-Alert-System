@@ -58,6 +58,8 @@ The system:
   - Tracking performance trends
 - Enhances decision-making with visual insights
 
+![Dashboard Snapshot](./Dashboard%20Snapshot.png)
+
 ---
 
 ### 🔹 Data Cleaning & Transformation 🧹
