@@ -77,3 +77,4 @@ The system:
 ---
 
 ## 🔄 Workflow Architecture
+![Workflow Screenshot](./Workflow%20Snapshot.png)
