@@ -86,6 +86,7 @@ The system:
 
 ### 🚨 Alert Email
 > ⚠️ Profit has dropped below threshold. Immediate attention required.
+
 ![Alert Snapshot](./Alert%20Snapshot.jpeg)
 
 ---
