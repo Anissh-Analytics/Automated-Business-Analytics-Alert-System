@@ -95,6 +95,7 @@ The system:
 - Revenue has crossed 1 crore, showing strong business performance  
 - Average profit per order is low, suggesting optimization opportunities  
 - High order volume indicates strong customer demand
+
 ![Insights Snapshot](./Business%20Insights%20Snapshot.jpeg)
 
 ---
